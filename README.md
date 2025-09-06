@@ -20,6 +20,13 @@ ifood-case
 ## Setup no Databricks Community
 
 ### 1. Upload dos Notebooks
+#### Opção A - Via Git:
+1. Acessar [community.cloud.databricks.com](https://community.cloud.databricks.com/)
+2. Ir em **Repos** > **Add Repo**
+3. Colar a URL: `https://github.com/lucasmirachi/ifood-case`
+4. Clicar em **Create Repo**
+
+#### Opção B - Upload Manual
 1. Acessar [community.cloud.databricks.com](https://community.cloud.databricks.com/)
 2. Ir em **Workspace** > **Users** > **Seu email**
 3. Clicar em  **Import** e fazer upload dos arquivos `.ipynb`
